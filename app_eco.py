@@ -680,9 +680,9 @@ elif page == "🌍 India vs World":
     for yr, label in [(2008,"GFC"),(2020,"COVID")]:
         fig.add_vline(x=yr, line_dash="dash",
                       line_color=C["accent"], line_width=1, opacity=0.5)
-        fig.add_annotation(x=yr+0.2, y=0, text=label,
+        fig.add_annotation(x=yr+0.2, y=0.02, text=label,
                            font=dict(size=9, color=C["accent"]),
-                           showarrow=False, yref="paper", y=0.02)
+                           showarrow=False, yref="paper")
 
     fig.add_hline(y=0, line_color="white", line_width=0.6, opacity=0.3)
 
