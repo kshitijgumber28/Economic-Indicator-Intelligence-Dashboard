@@ -998,8 +998,8 @@ elif page == "📊 GDP & Growth":
         ),
     ))
     fig2.update_layout(**PLOT_LAYOUT, height=320,
-                       title_text="Annual GDP Growth (%) — Heatmap",
-                       xaxis=dict(side="bottom"))
+                       title_text="Annual GDP Growth (%) — Heatmap")
+    fig2.update_xaxes(side="bottom")
     st.plotly_chart(fig2, use_container_width=True)
 
     st.markdown(
