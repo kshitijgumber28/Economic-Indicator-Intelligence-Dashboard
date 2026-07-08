@@ -836,8 +836,8 @@ elif page == "⚡ Shock Analysis":
                    line_color=C["accent"], line_width=1.5, opacity=0.7)
     fig3.update_layout(**PLOT_LAYOUT, height=380,
                        title_text="GDP Growth (%) Around the Shock",
-                       yaxis_title="Annual GDP Growth (%)",
-                       xaxis=dict(tickvals=window_yrs))
+                       yaxis_title="Annual GDP Growth (%)")
+    fig3.update_xaxes(tickvals=window_yrs)
     st.plotly_chart(fig3, use_container_width=True)
 
 
@@ -992,8 +992,10 @@ elif page == "📊 GDP & Growth":
         text=np.round(pivot.values, 1),
         texttemplate="%{text}%",
         textfont_size=9,
-        colorbar=dict(title="Growth %", tickfont=dict(color="#c9d1d9"),
-                      titlefont=dict(color="#c9d1d9")),
+        colorbar=dict(
+          title=dict(text="Growth %", font=dict(color="#c9d1d9")),
+          tickfont=dict(color="#c9d1d9")
+        ),
     ))
     fig2.update_layout(**PLOT_LAYOUT, height=320,
                        title_text="Annual GDP Growth (%) — Heatmap",
