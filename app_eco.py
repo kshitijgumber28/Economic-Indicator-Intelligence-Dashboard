@@ -400,8 +400,8 @@ if page == "🏠 Overview":
         (col1, f"{india_gdp_avg:.2f}%",    "Avg GDP Growth",       "2000–2025"),
         (col2, f"{latest_inf:.2f}%",        "Latest Inflation",     "As of June 2026"),
         (col3, f"{latest_repo:.2f}%",       "RBI Repo Rate",        "As of June 2026"),
-        (col4, f"₹{latest_inr:.2f}",        "USD/INR Rate",         "As of June 2026"),
-        (col5, f"${india_pc_now:,.0f}",     "GDP per Capita",       "As of 2025, Constant 2015 USD"),
+        (col4, f"₹{latest_inr:.2f}",        "USD/INR Rate",         "As of July 2026"),
+        (col5, f"${india_pc_now:,.0f}",     "GDP per Capita",       "2025 | Constant 2015 USD"),
     ]
     for col, val, label, sub in cards:
         with col:
