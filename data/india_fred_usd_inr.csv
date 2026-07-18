@@ -1,0 +1,320 @@
+date,value,indicator,country,source
+2000-01-01,43.5895,usd_inr,India,FRED
+2000-02-01,43.653999999999996,usd_inr,India,FRED
+2000-03-01,43.638260869565215,usd_inr,India,FRED
+2000-04-01,43.6847,usd_inr,India,FRED
+2000-05-01,44.075909090909086,usd_inr,India,FRED
+2000-06-01,44.76045454545454,usd_inr,India,FRED
+2000-07-01,44.840500000000006,usd_inr,India,FRED
+2000-08-01,45.76869565217392,usd_inr,India,FRED
+2000-09-01,45.968,usd_inr,India,FRED
+2000-10-01,46.4252380952381,usd_inr,India,FRED
+2000-11-01,46.82142857142857,usd_inr,India,FRED
+2000-12-01,46.784499999999994,usd_inr,India,FRED
+2001-01-01,46.61380952380952,usd_inr,India,FRED
+2001-02-01,46.56157894736842,usd_inr,India,FRED
+2001-03-01,46.653181818181814,usd_inr,India,FRED
+2001-04-01,46.78857142857143,usd_inr,India,FRED
+2001-05-01,46.947272727272725,usd_inr,India,FRED
+2001-06-01,47.04238095238095,usd_inr,India,FRED
+2001-07-01,47.17809523809524,usd_inr,India,FRED
+2001-08-01,47.16652173913043,usd_inr,India,FRED
+2001-09-01,47.75111111111111,usd_inr,India,FRED
+2001-10-01,48.05136363636364,usd_inr,India,FRED
+2001-11-01,48.043,usd_inr,India,FRED
+2001-12-01,47.9345,usd_inr,India,FRED
+2002-01-01,48.35333333333333,usd_inr,India,FRED
+2002-02-01,48.71684210526316,usd_inr,India,FRED
+2002-03-01,48.766666666666666,usd_inr,India,FRED
+2002-04-01,48.93863636363637,usd_inr,India,FRED
+2002-05-01,49.016818181818174,usd_inr,India,FRED
+2002-06-01,48.983999999999995,usd_inr,India,FRED
+2002-07-01,48.78772727272727,usd_inr,India,FRED
+2002-08-01,48.615,usd_inr,India,FRED
+2002-09-01,48.4625,usd_inr,India,FRED
+2002-10-01,48.38818181818181,usd_inr,India,FRED
+2002-11-01,48.28526315789473,usd_inr,India,FRED
+2002-12-01,48.14952380952381,usd_inr,India,FRED
+2003-01-01,47.957142857142856,usd_inr,India,FRED
+2003-02-01,47.747368421052634,usd_inr,India,FRED
+2003-03-01,47.67666666666667,usd_inr,India,FRED
+2003-04-01,47.39090909090908,usd_inr,India,FRED
+2003-05-01,47.11,usd_inr,India,FRED
+2003-06-01,46.69952380952381,usd_inr,India,FRED
+2003-07-01,46.22,usd_inr,India,FRED
+2003-08-01,45.955714285714286,usd_inr,India,FRED
+2003-09-01,45.846666666666664,usd_inr,India,FRED
+2003-10-01,45.403636363636366,usd_inr,India,FRED
+2003-11-01,45.55444444444444,usd_inr,India,FRED
+2003-12-01,45.574090909090906,usd_inr,India,FRED
+2004-01-01,45.3439546064897,usd_inr,India,Yahoo Finance
+2004-02-01,45.19715003967285,usd_inr,India,Yahoo Finance
+2004-03-01,44.88026096509851,usd_inr,India,Yahoo Finance
+2004-04-01,43.81028547741118,usd_inr,India,Yahoo Finance
+2004-05-01,45.0711426507859,usd_inr,India,Yahoo Finance
+2004-06-01,45.39754520763051,usd_inr,India,Yahoo Finance
+2004-07-01,45.93354554609819,usd_inr,India,Yahoo Finance
+2004-08-01,46.235408782958984,usd_inr,India,Yahoo Finance
+2004-09-01,45.976545160466976,usd_inr,India,Yahoo Finance
+2004-10-01,45.68285007476807,usd_inr,India,Yahoo Finance
+2004-11-01,44.99100026217374,usd_inr,India,Yahoo Finance
+2004-12-01,43.79847849970279,usd_inr,India,Yahoo Finance
+2005-01-01,43.610333578927175,usd_inr,India,Yahoo Finance
+2005-02-01,43.571400260925294,usd_inr,India,Yahoo Finance
+2005-03-01,43.583956676980726,usd_inr,India,Yahoo Finance
+2005-04-01,43.61719076974051,usd_inr,India,Yahoo Finance
+2005-05-01,43.422999988902696,usd_inr,India,Yahoo Finance
+2005-06-01,43.50500002774325,usd_inr,India,Yahoo Finance
+2005-07-01,43.43028549920945,usd_inr,India,Yahoo Finance
+2005-08-01,43.52899999203889,usd_inr,India,Yahoo Finance
+2005-09-01,43.83714276268368,usd_inr,India,Yahoo Finance
+2005-10-01,44.74809537615095,usd_inr,India,Yahoo Finance
+2005-11-01,45.60818186673251,usd_inr,India,Yahoo Finance
+2005-12-01,45.54754569313743,usd_inr,India,Yahoo Finance
+2006-01-01,44.22159090909091,usd_inr,India,Yahoo Finance
+2006-02-01,44.224100303649905,usd_inr,India,Yahoo Finance
+2006-03-01,44.37026081914487,usd_inr,India,Yahoo Finance
+2006-04-01,44.840949821472165,usd_inr,India,Yahoo Finance
+2006-05-01,45.20321754787279,usd_inr,India,Yahoo Finance
+2006-06-01,45.91349965875799,usd_inr,India,Yahoo Finance
+2006-07-01,46.34190477643694,usd_inr,India,Yahoo Finance
+2006-08-01,46.418782607368804,usd_inr,India,Yahoo Finance
+2006-09-01,46.01176161993118,usd_inr,India,Yahoo Finance
+2006-10-01,45.341045206243344,usd_inr,India,Yahoo Finance
+2006-11-01,44.73318151994185,usd_inr,India,Yahoo Finance
+2006-12-01,44.5033810933431,usd_inr,India,Yahoo Finance
+2007-01-01,44.13099985537322,usd_inr,India,Yahoo Finance
+2007-02-01,44.00799999237061,usd_inr,India,Yahoo Finance
+2007-03-01,43.78772700916637,usd_inr,India,Yahoo Finance
+2007-04-01,42.01471455891927,usd_inr,India,Yahoo Finance
+2007-05-01,40.64334769870924,usd_inr,India,Yahoo Finance
+2007-06-01,40.52052325294132,usd_inr,India,Yahoo Finance
+2007-07-01,40.28818147832697,usd_inr,India,Yahoo Finance
+2007-08-01,40.65565225352412,usd_inr,India,Yahoo Finance
+2007-09-01,40.13089471114309,usd_inr,India,Yahoo Finance
+2007-10-01,39.34395665707795,usd_inr,India,Yahoo Finance
+2007-11-01,39.31500007992699,usd_inr,India,Yahoo Finance
+2007-12-01,39.331349754333495,usd_inr,India,Yahoo Finance
+2008-01-01,39.26630467953889,usd_inr,India,Yahoo Finance
+2008-02-01,39.66242835635231,usd_inr,India,Yahoo Finance
+2008-03-01,40.11671429588681,usd_inr,India,Yahoo Finance
+2008-04-01,39.914428347633,usd_inr,India,Yahoo Finance
+2008-05-01,42.07695243472145,usd_inr,India,Yahoo Finance
+2008-06-01,42.71133332025437,usd_inr,India,Yahoo Finance
+2008-07-01,42.740590529008344,usd_inr,India,Yahoo Finance
+2008-08-01,43.651000022888184,usd_inr,India,Yahoo Finance
+2008-09-01,45.43731828169389,usd_inr,India,Yahoo Finance
+2008-10-01,48.45556524525518,usd_inr,India,Yahoo Finance
+2008-11-01,48.801500129699704,usd_inr,India,Yahoo Finance
+2008-12-01,48.53126044895338,usd_inr,India,Yahoo Finance
+2009-01-01,48.64050032875755,usd_inr,India,Yahoo Finance
+2009-02-01,49.13304977416992,usd_inr,India,Yahoo Finance
+2009-03-01,51.109363382512875,usd_inr,India,Yahoo Finance
+2009-04-01,49.91122731295499,usd_inr,India,Yahoo Finance
+2009-05-01,48.402047656831286,usd_inr,India,Yahoo Finance
+2009-06-01,47.65318194302645,usd_inr,India,Yahoo Finance
+2009-07-01,48.34739154318105,usd_inr,India,Yahoo Finance
+2009-08-01,48.25304757981073,usd_inr,India,Yahoo Finance
+2009-09-01,48.29781844399192,usd_inr,India,Yahoo Finance
+2009-10-01,46.635227550159804,usd_inr,India,Yahoo Finance
+2009-11-01,46.48552376883371,usd_inr,India,Yahoo Finance
+2009-12-01,46.52827297557484,usd_inr,India,Yahoo Finance
+2010-01-01,45.92376200358073,usd_inr,India,Yahoo Finance
+2010-02-01,46.24489974975586,usd_inr,India,Yahoo Finance
+2010-03-01,45.39921735680622,usd_inr,India,Yahoo Finance
+2010-04-01,44.40236369046298,usd_inr,India,Yahoo Finance
+2010-05-01,45.77895246233259,usd_inr,India,Yahoo Finance
+2010-06-01,46.4378639567982,usd_inr,India,Yahoo Finance
+2010-07-01,46.67177269675515,usd_inr,India,Yahoo Finance
+2010-08-01,46.46486369046298,usd_inr,India,Yahoo Finance
+2010-09-01,45.9908636266535,usd_inr,India,Yahoo Finance
+2010-10-01,44.33180963425409,usd_inr,India,Yahoo Finance
+2010-11-01,44.82536367936568,usd_inr,India,Yahoo Finance
+2010-12-01,45.04699988987135,usd_inr,India,Yahoo Finance
+2011-01-01,45.29685737973168,usd_inr,India,Yahoo Finance
+2011-02-01,45.35160045623779,usd_inr,India,Yahoo Finance
+2011-03-01,44.892695717189625,usd_inr,India,Yahoo Finance
+2011-04-01,44.29389972686768,usd_inr,India,Yahoo Finance
+2011-05-01,44.806727322665125,usd_inr,India,Yahoo Finance
+2011-06-01,44.78390832380815,usd_inr,India,Yahoo Finance
+2011-07-01,44.36190450759161,usd_inr,India,Yahoo Finance
+2011-08-01,45.23839104693869,usd_inr,India,Yahoo Finance
+2011-09-01,47.42472752657804,usd_inr,India,Yahoo Finance
+2011-10-01,49.19814318702335,usd_inr,India,Yahoo Finance
+2011-11-01,50.55290933088823,usd_inr,India,Yahoo Finance
+2011-12-01,52.334999951449305,usd_inr,India,Yahoo Finance
+2012-01-01,51.517363634976476,usd_inr,India,Yahoo Finance
+2012-02-01,49.17566662742978,usd_inr,India,Yahoo Finance
+2012-03-01,50.253409125588156,usd_inr,India,Yahoo Finance
+2012-04-01,51.604380834670295,usd_inr,India,Yahoo Finance
+2012-05-01,54.23752146181853,usd_inr,India,Yahoo Finance
+2012-06-01,56.00071425664993,usd_inr,India,Yahoo Finance
+2012-07-01,55.378909544511274,usd_inr,India,Yahoo Finance
+2012-08-01,55.51908692069676,usd_inr,India,Yahoo Finance
+2012-09-01,54.615750312805176,usd_inr,India,Yahoo Finance
+2012-10-01,53.01560858021612,usd_inr,India,Yahoo Finance
+2012-11-01,54.792909448797054,usd_inr,India,Yahoo Finance
+2012-12-01,54.633666628883,usd_inr,India,Yahoo Finance
+2013-01-01,54.319173895794414,usd_inr,India,Yahoo Finance
+2013-02-01,53.77849998474121,usd_inr,India,Yahoo Finance
+2013-03-01,54.41233298892067,usd_inr,India,Yahoo Finance
+2013-04-01,54.36309068853205,usd_inr,India,Yahoo Finance
+2013-05-01,54.89839139192001,usd_inr,India,Yahoo Finance
+2013-06-01,58.09675064086914,usd_inr,India,Yahoo Finance
+2013-07-01,59.729869344960086,usd_inr,India,Yahoo Finance
+2013-08-01,62.75240915471857,usd_inr,India,Yahoo Finance
+2013-09-01,64.0193332490467,usd_inr,India,Yahoo Finance
+2013-10-01,61.57000021501021,usd_inr,India,Yahoo Finance
+2013-11-01,62.66647611345564,usd_inr,India,Yahoo Finance
+2013-12-01,61.821681629527696,usd_inr,India,Yahoo Finance
+2014-01-01,61.99865241672682,usd_inr,India,Yahoo Finance
+2014-02-01,62.140200233459474,usd_inr,India,Yahoo Finance
+2014-03-01,60.99652390252976,usd_inr,India,Yahoo Finance
+2014-04-01,60.31522698835893,usd_inr,India,Yahoo Finance
+2014-05-01,59.26422743363814,usd_inr,India,Yahoo Finance
+2014-06-01,59.65919022333054,usd_inr,India,Yahoo Finance
+2014-07-01,60.01500021893045,usd_inr,India,Yahoo Finance
+2014-08-01,60.81557155790783,usd_inr,India,Yahoo Finance
+2014-09-01,60.806136738170274,usd_inr,India,Yahoo Finance
+2014-10-01,61.3033913322117,usd_inr,India,Yahoo Finance
+2014-11-01,61.63299961090088,usd_inr,India,Yahoo Finance
+2014-12-01,62.73634786191194,usd_inr,India,Yahoo Finance
+2015-01-01,62.203272732821375,usd_inr,India,Yahoo Finance
+2015-02-01,62.033850479125974,usd_inr,India,Yahoo Finance
+2015-03-01,62.459909439086914,usd_inr,India,Yahoo Finance
+2015-04-01,62.60036347129128,usd_inr,India,Yahoo Finance
+2015-05-01,63.71614256359282,usd_inr,India,Yahoo Finance
+2015-06-01,63.7934547771107,usd_inr,India,Yahoo Finance
+2015-07-01,63.621913080630094,usd_inr,India,Yahoo Finance
+2015-08-01,65.01014273507255,usd_inr,India,Yahoo Finance
+2015-09-01,66.2481821233576,usd_inr,India,Yahoo Finance
+2015-10-01,65.05031828446822,usd_inr,India,Yahoo Finance
+2015-11-01,66.07347724551246,usd_inr,India,Yahoo Finance
+2015-12-01,66.51682646378227,usd_inr,India,Yahoo Finance
+2016-01-01,67.25199890136719,usd_inr,India,Yahoo Finance
+2016-02-01,68.22361937023345,usd_inr,India,Yahoo Finance
+2016-03-01,67.00821685791016,usd_inr,India,Yahoo Finance
+2016-04-01,66.44942946661087,usd_inr,India,Yahoo Finance
+2016-05-01,66.91559150002219,usd_inr,India,Yahoo Finance
+2016-06-01,67.22354507446289,usd_inr,India,Yahoo Finance
+2016-07-01,67.18742915562221,usd_inr,India,Yahoo Finance
+2016-08-01,66.90825221849525,usd_inr,India,Yahoo Finance
+2016-09-01,66.69792764837092,usd_inr,India,Yahoo Finance
+2016-10-01,66.71483394077846,usd_inr,India,Yahoo Finance
+2016-11-01,67.60415371981534,usd_inr,India,Yahoo Finance
+2016-12-01,67.83011384443803,usd_inr,India,Yahoo Finance
+2017-01-01,68.07183629816228,usd_inr,India,Yahoo Finance
+2017-02-01,67.00256042480468,usd_inr,India,Yahoo Finance
+2017-03-01,65.89516084090523,usd_inr,India,Yahoo Finance
+2017-04-01,64.5478946685791,usd_inr,India,Yahoo Finance
+2017-05-01,64.3975130164105,usd_inr,India,Yahoo Finance
+2017-06-01,64.4509232260964,usd_inr,India,Yahoo Finance
+2017-07-01,64.45347366333007,usd_inr,India,Yahoo Finance
+2017-08-01,63.98929164720618,usd_inr,India,Yahoo Finance
+2017-09-01,64.39517102922711,usd_inr,India,Yahoo Finance
+2017-10-01,65.06690840287642,usd_inr,India,Yahoo Finance
+2017-11-01,64.81807091122582,usd_inr,India,Yahoo Finance
+2017-12-01,64.2504997253418,usd_inr,India,Yahoo Finance
+2018-01-01,63.659213024636976,usd_inr,India,Yahoo Finance
+2018-02-01,64.36792469024658,usd_inr,India,Yahoo Finance
+2018-03-01,65.02543154629794,usd_inr,India,Yahoo Finance
+2018-04-01,65.62718672979446,usd_inr,India,Yahoo Finance
+2018-05-01,67.61740444017494,usd_inr,India,Yahoo Finance
+2018-06-01,67.83127121698288,usd_inr,India,Yahoo Finance
+2018-07-01,68.7418722672896,usd_inr,India,Yahoo Finance
+2018-08-01,69.58693462869395,usd_inr,India,Yahoo Finance
+2018-09-01,72.26407012939453,usd_inr,India,Yahoo Finance
+2018-10-01,73.70506916875425,usd_inr,India,Yahoo Finance
+2018-11-01,72.00166806307706,usd_inr,India,Yahoo Finance
+2018-12-01,70.88785734630767,usd_inr,India,Yahoo Finance
+2019-01-01,70.71612217115319,usd_inr,India,Yahoo Finance
+2019-02-01,71.28241424560547,usd_inr,India,Yahoo Finance
+2019-03-01,69.71483357747395,usd_inr,India,Yahoo Finance
+2019-04-01,69.48311406915838,usd_inr,India,Yahoo Finance
+2019-05-01,69.90358248623934,usd_inr,India,Yahoo Finance
+2019-06-01,69.60334510803223,usd_inr,India,Yahoo Finance
+2019-07-01,68.87401680324389,usd_inr,India,Yahoo Finance
+2019-08-01,71.22969193892045,usd_inr,India,Yahoo Finance
+2019-09-01,71.56304713657924,usd_inr,India,Yahoo Finance
+2019-10-01,71.11663951044497,usd_inr,India,Yahoo Finance
+2019-11-01,71.48800041562035,usd_inr,India,Yahoo Finance
+2019-12-01,71.22342751242898,usd_inr,India,Yahoo Finance
+2020-01-01,71.25003582498302,usd_inr,India,Yahoo Finance
+2020-02-01,71.54847526550293,usd_inr,India,Yahoo Finance
+2020-03-01,74.67810023914684,usd_inr,India,Yahoo Finance
+2020-04-01,76.50145894830877,usd_inr,India,Yahoo Finance
+2020-05-01,75.84895688011532,usd_inr,India,Yahoo Finance
+2020-06-01,75.83099573308772,usd_inr,India,Yahoo Finance
+2020-07-01,75.04592099397078,usd_inr,India,Yahoo Finance
+2020-08-01,74.74706704275948,usd_inr,India,Yahoo Finance
+2020-09-01,73.59392686323686,usd_inr,India,Yahoo Finance
+2020-10-01,73.59052380648527,usd_inr,India,Yahoo Finance
+2020-11-01,74.27882385253906,usd_inr,India,Yahoo Finance
+2020-12-01,73.73644754161005,usd_inr,India,Yahoo Finance
+2021-01-01,73.15517134893508,usd_inr,India,Yahoo Finance
+2021-02-01,72.76644515991211,usd_inr,India,Yahoo Finance
+2021-03-01,72.81514739990234,usd_inr,India,Yahoo Finance
+2021-04-01,74.4693270596591,usd_inr,India,Yahoo Finance
+2021-05-01,73.26855214436848,usd_inr,India,Yahoo Finance
+2021-06-01,73.53241348266602,usd_inr,India,Yahoo Finance
+2021-07-01,74.52937733043323,usd_inr,India,Yahoo Finance
+2021-08-01,74.1854133605957,usd_inr,India,Yahoo Finance
+2021-09-01,73.57104561545633,usd_inr,India,Yahoo Finance
+2021-10-01,74.9277100335984,usd_inr,India,Yahoo Finance
+2021-11-01,74.4731726212935,usd_inr,India,Yahoo Finance
+2021-12-01,75.39349995488706,usd_inr,India,Yahoo Finance
+2022-01-01,74.445313226609,usd_inr,India,Yahoo Finance
+2022-02-01,74.91742553710938,usd_inr,India,Yahoo Finance
+2022-03-01,76.17483056109884,usd_inr,India,Yahoo Finance
+2022-04-01,76.16621798560733,usd_inr,India,Yahoo Finance
+2022-05-01,77.25382267345081,usd_inr,India,Yahoo Finance
+2022-06-01,78.02294020219283,usd_inr,India,Yahoo Finance
+2022-07-01,79.55732908703033,usd_inr,India,Yahoo Finance
+2022-08-01,79.5099566915761,usd_inr,India,Yahoo Finance
+2022-09-01,80.16898623379794,usd_inr,India,Yahoo Finance
+2022-10-01,82.26640937441871,usd_inr,India,Yahoo Finance
+2022-11-01,81.67268128828569,usd_inr,India,Yahoo Finance
+2022-12-01,82.41765941273083,usd_inr,India,Yahoo Finance
+2023-01-01,81.8011360168457,usd_inr,India,Yahoo Finance
+2023-02-01,82.55955429077149,usd_inr,India,Yahoo Finance
+2023-03-01,82.28949107294497,usd_inr,India,Yahoo Finance
+2023-04-01,81.98350067138672,usd_inr,India,Yahoo Finance
+2023-05-01,82.27345209536345,usd_inr,India,Yahoo Finance
+2023-06-01,82.19811734286222,usd_inr,India,Yahoo Finance
+2023-07-01,82.1668959118071,usd_inr,India,Yahoo Finance
+2023-08-01,82.81583868938944,usd_inr,India,Yahoo Finance
+2023-09-01,83.0339613414946,usd_inr,India,Yahoo Finance
+2023-10-01,83.22280432961203,usd_inr,India,Yahoo Finance
+2023-11-01,83.36060402610086,usd_inr,India,Yahoo Finance
+2023-12-01,83.21109008789062,usd_inr,India,Yahoo Finance
+2024-01-01,83.12909565801206,usd_inr,India,Yahoo Finance
+2024-02-01,82.97882806687127,usd_inr,India,Yahoo Finance
+2024-03-01,83.02266584123883,usd_inr,India,Yahoo Finance
+2024-04-01,83.40929967706853,usd_inr,India,Yahoo Finance
+2024-05-01,83.37233933158542,usd_inr,India,Yahoo Finance
+2024-06-01,83.48320045471192,usd_inr,India,Yahoo Finance
+2024-07-01,83.58260080088739,usd_inr,India,Yahoo Finance
+2024-08-01,83.8881905295632,usd_inr,India,Yahoo Finance
+2024-09-01,83.80943371000744,usd_inr,India,Yahoo Finance
+2024-10-01,84.02382626740828,usd_inr,India,Yahoo Finance
+2024-11-01,84.34821392240978,usd_inr,India,Yahoo Finance
+2024-12-01,84.98197728937322,usd_inr,India,Yahoo Finance
+2025-01-01,86.26195526123047,usd_inr,India,Yahoo Finance
+2025-02-01,86.96414527893066,usd_inr,India,Yahoo Finance
+2025-03-01,86.64112817673455,usd_inr,India,Yahoo Finance
+2025-04-01,85.64615478515626,usd_inr,India,Yahoo Finance
+2025-05-01,85.20378667658025,usd_inr,India,Yahoo Finance
+2025-06-01,85.92810530889602,usd_inr,India,Yahoo Finance
+2025-07-01,86.09568222709323,usd_inr,India,Yahoo Finance
+2025-08-01,87.49646650041852,usd_inr,India,Yahoo Finance
+2025-09-01,88.25879981301047,usd_inr,India,Yahoo Finance
+2025-10-01,88.38044771940812,usd_inr,India,Yahoo Finance
+2025-11-01,88.81083450317382,usd_inr,India,Yahoo Finance
+2025-12-01,90.00801814686169,usd_inr,India,Yahoo Finance
+2026-01-01,90.74835786365327,usd_inr,India,Yahoo Finance
+2026-02-01,90.72659416198731,usd_inr,India,Yahoo Finance
+2026-03-01,92.80219546231356,usd_inr,India,Yahoo Finance
+2026-04-01,93.49466358531605,usd_inr,India,Yahoo Finance
+2026-05-01,95.53827630905877,usd_inr,India,Yahoo Finance
+2026-06-01,95.06007211858577,usd_inr,India,Yahoo Finance
+2026-07-01,95.67284075419109,usd_inr,India,Yahoo Finance

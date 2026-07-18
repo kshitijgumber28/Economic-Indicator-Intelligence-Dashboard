@@ -1,0 +1,934 @@
+country,date,value,indicator,source
+Brazil,2025,2.2857464902475,gdp_growth_pct,World Bank
+Brazil,2024,3.41931516501906,gdp_growth_pct,World Bank
+Brazil,2023,3.24165532906981,gdp_growth_pct,World Bank
+Brazil,2022,3.01669435393015,gdp_growth_pct,World Bank
+Brazil,2021,4.76260437908608,gdp_growth_pct,World Bank
+Brazil,2020,-3.2767587964736,gdp_growth_pct,World Bank
+Brazil,2019,1.22077782360842,gdp_growth_pct,World Bank
+Brazil,2018,1.783666761634,gdp_growth_pct,World Bank
+Brazil,2017,1.32286905404399,gdp_growth_pct,World Bank
+Brazil,2016,-3.27591690782192,gdp_growth_pct,World Bank
+Brazil,2015,-3.54576339269425,gdp_growth_pct,World Bank
+Brazil,2014,0.503955740242247,gdp_growth_pct,World Bank
+Brazil,2013,3.00482266944432,gdp_growth_pct,World Bank
+Brazil,2012,1.92117598576537,gdp_growth_pct,World Bank
+Brazil,2011,3.97442307944702,gdp_growth_pct,World Bank
+Brazil,2010,7.52822581815364,gdp_growth_pct,World Bank
+Brazil,2009,-0.125812002161169,gdp_growth_pct,World Bank
+Brazil,2008,5.09419544658736,gdp_growth_pct,World Bank
+Brazil,2007,6.06987060678338,gdp_growth_pct,World Bank
+Brazil,2006,3.96198871122617,gdp_growth_pct,World Bank
+Brazil,2005,3.20213206130431,gdp_growth_pct,World Bank
+Brazil,2004,5.75996463670954,gdp_growth_pct,World Bank
+Brazil,2003,1.14082899824888,gdp_growth_pct,World Bank
+Brazil,2002,3.05346185909312,gdp_growth_pct,World Bank
+Brazil,2001,1.38989640095637,gdp_growth_pct,World Bank
+Brazil,2000,4.38794944745618,gdp_growth_pct,World Bank
+China,2025,4.95994886240992,gdp_growth_pct,World Bank
+China,2024,4.95830378788091,gdp_growth_pct,World Bank
+China,2023,5.41600334492955,gdp_growth_pct,World Bank
+China,2022,3.13385438394069,gdp_growth_pct,World Bank
+China,2021,8.57038414981781,gdp_growth_pct,World Bank
+China,2020,2.33950385203023,gdp_growth_pct,World Bank
+China,2019,6.06737806333672,gdp_growth_pct,World Bank
+China,2018,6.757806142324,gdp_growth_pct,World Bank
+China,2017,6.89123916636191,gdp_growth_pct,World Bank
+China,2016,6.7736886867727,gdp_growth_pct,World Bank
+China,2015,6.98162255562367,gdp_growth_pct,World Bank
+China,2014,7.46100735778161,gdp_growth_pct,World Bank
+China,2013,7.77842954757257,gdp_growth_pct,World Bank
+China,2012,7.8578201481217,gdp_growth_pct,World Bank
+China,2011,9.46205248298186,gdp_growth_pct,World Bank
+China,2010,10.5916903885704,gdp_growth_pct,World Bank
+China,2009,9.40610014336416,gdp_growth_pct,World Bank
+China,2008,9.66877608164454,gdp_growth_pct,World Bank
+China,2007,14.1507710506103,gdp_growth_pct,World Bank
+China,2006,12.6752842281595,gdp_growth_pct,World Bank
+China,2005,11.4535130030645,gdp_growth_pct,World Bank
+China,2004,10.1404291872206,gdp_growth_pct,World Bank
+China,2003,10.1138119025242,gdp_growth_pct,World Bank
+China,2002,9.23604870383861,gdp_growth_pct,World Bank
+China,2001,8.32404695347056,gdp_growth_pct,World Bank
+China,2000,8.57357328926101,gdp_growth_pct,World Bank
+Germany,2025,0.239578342117881,gdp_growth_pct,World Bank
+Germany,2024,-0.495851897260366,gdp_growth_pct,World Bank
+Germany,2023,-0.869647578573321,gdp_growth_pct,World Bank
+Germany,2022,1.8092581243061,gdp_growth_pct,World Bank
+Germany,2021,3.90999994204108,gdp_growth_pct,World Bank
+Germany,2020,-4.13191443239947,gdp_growth_pct,World Bank
+Germany,2019,0.977734697038784,gdp_growth_pct,World Bank
+Germany,2018,1.13569604599849,gdp_growth_pct,World Bank
+Germany,2017,2.797906720551,gdp_growth_pct,World Bank
+Germany,2016,2.22222216259371,gdp_growth_pct,World Bank
+Germany,2015,1.66300602334775,gdp_growth_pct,World Bank
+Germany,2014,2.18018602168017,gdp_growth_pct,World Bank
+Germany,2013,0.396995583779145,gdp_growth_pct,World Bank
+Germany,2012,0.463512036709204,gdp_growth_pct,World Bank
+Germany,2011,3.75796884489337,gdp_growth_pct,World Bank
+Germany,2010,4.13463778522758,gdp_growth_pct,World Bank
+Germany,2009,-5.54455451920674,gdp_growth_pct,World Bank
+Germany,2008,0.887902330743628,gdp_growth_pct,World Bank
+Germany,2007,2.8891174138025,gdp_growth_pct,World Bank
+Germany,2006,3.86668241523209,gdp_growth_pct,World Bank
+Germany,2005,0.885485292551564,gdp_growth_pct,World Bank
+Germany,2004,1.16208684507278,gdp_growth_pct,World Bank
+Germany,2003,-0.529801394291297,gdp_growth_pct,World Bank
+Germany,2002,-0.228255715793637,gdp_growth_pct,World Bank
+Germany,2001,1.63614170690956,gdp_growth_pct,World Bank
+Germany,2000,2.8765231247659,gdp_growth_pct,World Bank
+United Kingdom,2025,1.38844207858726,gdp_growth_pct,World Bank
+United Kingdom,2024,1.08027716858781,gdp_growth_pct,World Bank
+United Kingdom,2023,0.271650048355255,gdp_growth_pct,World Bank
+United Kingdom,2022,5.14970388522993,gdp_growth_pct,World Bank
+United Kingdom,2021,8.5431118453255,gdp_growth_pct,World Bank
+United Kingdom,2020,-10.047896637362,gdp_growth_pct,World Bank
+United Kingdom,2019,1.25629899760824,gdp_growth_pct,World Bank
+United Kingdom,2018,1.55133095078786,gdp_growth_pct,World Bank
+United Kingdom,2017,3.02322219840339,gdp_growth_pct,World Bank
+United Kingdom,2016,2.20652020635357,gdp_growth_pct,World Bank
+United Kingdom,2015,2.14040560033371,gdp_growth_pct,World Bank
+United Kingdom,2014,3.16017351468152,gdp_growth_pct,World Bank
+United Kingdom,2013,1.71846961308464,gdp_growth_pct,World Bank
+United Kingdom,2012,1.52826034721852,gdp_growth_pct,World Bank
+United Kingdom,2011,0.851437739020326,gdp_growth_pct,World Bank
+United Kingdom,2010,2.26054460931586,gdp_growth_pct,World Bank
+United Kingdom,2009,-4.58740819226323,gdp_growth_pct,World Bank
+United Kingdom,2008,-0.0494116727402769,gdp_growth_pct,World Bank
+United Kingdom,2007,2.93091133582351,gdp_growth_pct,World Bank
+United Kingdom,2006,2.18982132415704,gdp_growth_pct,World Bank
+United Kingdom,2005,2.7906547174688,gdp_growth_pct,World Bank
+United Kingdom,2004,2.32601853325993,gdp_growth_pct,World Bank
+United Kingdom,2003,3.21851612669614,gdp_growth_pct,World Bank
+United Kingdom,2002,1.70902736258567,gdp_growth_pct,World Bank
+United Kingdom,2001,2.39102229602824,gdp_growth_pct,World Bank
+United Kingdom,2000,4.52438074810904,gdp_growth_pct,World Bank
+India,2025,7.56666179284244,gdp_growth_pct,World Bank
+India,2024,7.09927893176518,gdp_growth_pct,World Bank
+India,2023,7.210224629335,gdp_growth_pct,World Bank
+India,2022,7.6093649776932,gdp_growth_pct,World Bank
+India,2021,9.68959249191741,gdp_growth_pct,World Bank
+India,2020,-5.77772470687303,gdp_growth_pct,World Bank
+India,2019,3.87143694070524,gdp_growth_pct,World Bank
+India,2018,6.45385134495295,gdp_growth_pct,World Bank
+India,2017,6.79538341902422,gdp_growth_pct,World Bank
+India,2016,8.25630550176662,gdp_growth_pct,World Bank
+India,2015,7.99625378567987,gdp_growth_pct,World Bank
+India,2014,7.41022760516977,gdp_growth_pct,World Bank
+India,2013,6.38610640091713,gdp_growth_pct,World Bank
+India,2012,5.45638755164772,gdp_growth_pct,World Bank
+India,2011,5.24131620024293,gdp_growth_pct,World Bank
+India,2010,8.49758470165625,gdp_growth_pct,World Bank
+India,2009,7.8618888330338,gdp_growth_pct,World Bank
+India,2008,3.08669805950082,gdp_growth_pct,World Bank
+India,2007,7.66081506510766,gdp_growth_pct,World Bank
+India,2006,8.06073257305057,gdp_growth_pct,World Bank
+India,2005,7.92343062131789,gdp_growth_pct,World Bank
+India,2004,7.92293661307978,gdp_growth_pct,World Bank
+India,2003,7.86038147545045,gdp_growth_pct,World Bank
+India,2002,3.80397532120038,gdp_growth_pct,World Bank
+India,2001,4.82396626397303,gdp_growth_pct,World Bank
+India,2000,3.84099115686554,gdp_growth_pct,World Bank
+United States,2025,2.16138195623856,gdp_growth_pct,World Bank
+United States,2024,2.79318715363841,gdp_growth_pct,World Bank
+United States,2023,2.93436322440155,gdp_growth_pct,World Bank
+United States,2022,2.52421385073222,gdp_growth_pct,World Bank
+United States,2021,6.15202247867526,gdp_growth_pct,World Bank
+United States,2020,-2.081375977796,gdp_growth_pct,World Bank
+United States,2019,2.58382533052225,gdp_growth_pct,World Bank
+United States,2018,2.96650506701943,gdp_growth_pct,World Bank
+United States,2017,2.45762230126449,gdp_growth_pct,World Bank
+United States,2016,1.81945147909089,gdp_growth_pct,World Bank
+United States,2015,2.94555045227337,gdp_growth_pct,World Bank
+United States,2014,2.52381981757846,gdp_growth_pct,World Bank
+United States,2013,2.11783009443471,gdp_growth_pct,World Bank
+United States,2012,2.28911339009767,gdp_growth_pct,World Bank
+United States,2011,1.56440685205419,gdp_growth_pct,World Bank
+United States,2010,2.69519258673525,gdp_growth_pct,World Bank
+United States,2009,-2.5765002366652,gdp_growth_pct,World Bank
+United States,2008,0.113587247501258,gdp_growth_pct,World Bank
+United States,2007,2.0038583039496,gdp_growth_pct,World Bank
+United States,2006,2.78453963674239,gdp_growth_pct,World Bank
+United States,2005,3.48354993710312,gdp_growth_pct,World Bank
+United States,2004,3.84777169267127,gdp_growth_pct,World Bank
+United States,2003,2.79560596378604,gdp_growth_pct,World Bank
+United States,2002,1.70044733078285,gdp_growth_pct,World Bank
+United States,2001,0.955538337599847,gdp_growth_pct,World Bank
+United States,2000,4.07758575997799,gdp_growth_pct,World Bank
+Brazil,2025,9747.99557762692,gdp_per_capita,World Bank
+Brazil,2024,9566.74518687619,gdp_per_capita,World Bank
+Brazil,2023,9288.02701470069,gdp_per_capita,World Bank
+Brazil,2022,9032.08481566299,gdp_per_capita,World Bank
+Brazil,2021,8799.22945810901,gdp_per_capita,World Bank
+Brazil,2020,8435.01143254978,gdp_per_capita,World Bank
+Brazil,2019,8771.44051292177,gdp_per_capita,World Bank
+Brazil,2018,8722.33630317935,gdp_per_capita,World Bank
+Brazil,2017,8628.25308908043,gdp_per_capita,World Bank
+Brazil,2016,8577.84376650911,gdp_per_capita,World Bank
+Brazil,2015,8936.19661712113,gdp_per_capita,World Bank
+Brazil,2014,9338.34278278114,gdp_per_capita,World Bank
+Brazil,2013,9366.73932434359,gdp_per_capita,World Bank
+Brazil,2012,9167.49923929815,gdp_per_capita,World Bank
+Brazil,2011,9067.99316348047,gdp_per_capita,World Bank
+Brazil,2010,8792.63436120342,gdp_per_capita,World Bank
+Brazil,2009,8246.09706995094,gdp_per_capita,World Bank
+Brazil,2008,8330.76459841304,gdp_per_capita,World Bank
+Brazil,2007,8003.25413096047,gdp_per_capita,World Bank
+Brazil,2006,7622.04007133264,gdp_per_capita,World Bank
+Brazil,2005,7409.56913232718,gdp_per_capita,World Bank
+Brazil,2004,7258.78185165912,gdp_per_capita,World Bank
+Brazil,2003,6941.4404574508,gdp_per_capita,World Bank
+Brazil,2002,6944.62337495755,gdp_per_capita,World Bank
+Brazil,2001,6823.03396999891,gdp_per_capita,World Bank
+Brazil,2000,6817.784240857,gdp_per_capita,World Bank
+China,2025,13793.2056196996,gdp_per_capita,World Bank
+China,2024,13119.1076099516,gdp_per_capita,World Bank
+China,2023,12483.9791101249,gdp_per_capita,World Bank
+China,2022,11830.298767861,gdp_per_capita,World Bank
+China,2021,11469.3174514512,gdp_per_capita,World Bank
+China,2020,10573.3794064211,gdp_per_capita,World Bank
+China,2019,10356.2924890582,gdp_per_capita,World Bank
+China,2018,9798.57890566402,gdp_per_capita,World Bank
+China,2017,9221.35045639842,gdp_per_capita,World Bank
+China,2016,8679.22528805041,gdp_per_capita,World Bank
+China,2015,8175.33285077393,gdp_per_capita,World Bank
+China,2014,7686.37369520403,gdp_per_capita,World Bank
+China,2013,7197.937319496,gdp_per_capita,World Bank
+China,2012,6723.09003744607,gdp_per_capita,World Bank
+China,2011,6275.71634288814,gdp_per_capita,World Bank
+China,2010,5764.65012366375,gdp_per_capita,World Bank
+China,2009,5237.78809982377,gdp_per_capita,World Bank
+China,2008,4811.34486346262,gdp_per_capita,World Bank
+China,2007,4409.69709445986,gdp_per_capita,World Bank
+China,2006,3883.27464370816,gdp_per_capita,World Bank
+China,2005,3465.72767067642,gdp_per_capita,World Bank
+China,2004,3127.91444892337,gdp_per_capita,World Bank
+China,2003,2856.85053293219,gdp_per_capita,World Bank
+China,2002,2610.66275070444,gdp_per_capita,World Bank
+China,2001,2405.99411858042,gdp_per_capita,World Bank
+China,2000,2237.30047918692,gdp_per_capita,World Bank
+Germany,2025,44146.6409090446,gdp_per_capita,World Bank
+Germany,2024,44027.7631554469,gdp_per_capita,World Bank
+Germany,2023,44368.9920074881,gdp_per_capita,World Bank
+Germany,2022,44817.1316331389,gdp_per_capita,World Bank
+Germany,2021,44011.0194631674,gdp_per_capita,World Bank
+Germany,2020,42372.8726784255,gdp_per_capita,World Bank
+Germany,2019,44235.2658954682,gdp_per_capita,World Bank
+Germany,2018,43905.8550061973,gdp_per_capita,World Bank
+Germany,2017,43543.4807050551,gdp_per_capita,World Bank
+Germany,2016,42516.9337063103,gdp_per_capita,World Bank
+Germany,2015,41929.7549110722,gdp_per_capita,World Bank
+Germany,2014,41602.4661281668,gdp_per_capita,World Bank
+Germany,2013,40884.8926759028,gdp_per_capita,World Bank
+Germany,2012,40834.5088218456,gdp_per_capita,World Bank
+Germany,2011,40722.4849268242,gdp_per_capita,World Bank
+Germany,2010,38526.7371042695,gdp_per_capita,World Bank
+Germany,2009,36940.4078672661,gdp_per_capita,World Bank
+Germany,2008,39009.8477636357,gdp_per_capita,World Bank
+Germany,2007,38593.0749910508,gdp_per_capita,World Bank
+Germany,2006,37459.261328042,gdp_per_capita,World Bank
+Germany,2005,36024.0947047021,gdp_per_capita,World Bank
+Germany,2004,35687.6378708542,gdp_per_capita,World Bank
+Germany,2003,35270.0227284267,gdp_per_capita,World Bank
+Germany,2002,35477.5151544301,gdp_per_capita,World Bank
+Germany,2001,35618.5143698493,gdp_per_capita,World Bank
+Germany,2000,35104.1308467844,gdp_per_capita,World Bank
+United Kingdom,2025,48422.0671236369,gdp_per_capita,World Bank
+United Kingdom,2024,47900.9680144146,gdp_per_capita,World Bank
+United Kingdom,2023,47911.1540134832,gdp_per_capita,World Bank
+United Kingdom,2022,48410.095170282,gdp_per_capita,World Bank
+United Kingdom,2021,46491.5068836685,gdp_per_capita,World Bank
+United Kingdom,2020,42985.0392148248,gdp_per_capita,World Bank
+United Kingdom,2019,47866.9140354078,gdp_per_capita,World Bank
+United Kingdom,2018,47516.2099770322,gdp_per_capita,World Bank
+United Kingdom,2017,47019.4510419999,gdp_per_capita,World Bank
+United Kingdom,2016,45888.7099614563,gdp_per_capita,World Bank
+United Kingdom,2015,45256.040227057,gdp_per_capita,World Bank
+United Kingdom,2014,44628.5724578217,gdp_per_capita,World Bank
+United Kingdom,2013,43585.8731772281,gdp_per_capita,World Bank
+United Kingdom,2012,43136.7006795996,gdp_per_capita,World Bank
+United Kingdom,2011,42791.0934313474,gdp_per_capita,World Bank
+United Kingdom,2010,42762.720840223,gdp_per_capita,World Bank
+United Kingdom,2009,42146.5095879962,gdp_per_capita,World Bank
+United Kingdom,2008,44508.2874631479,gdp_per_capita,World Bank
+United Kingdom,2007,44882.141312304,gdp_per_capita,World Bank
+United Kingdom,2006,43944.9985799069,gdp_per_capita,World Bank
+United Kingdom,2005,43320.5628684438,gdp_per_capita,World Bank
+United Kingdom,2004,42434.8209023638,gdp_per_capita,World Bank
+United Kingdom,2003,41706.8303930126,gdp_per_capita,World Bank
+United Kingdom,2002,40594.932929345,gdp_per_capita,World Bank
+United Kingdom,2001,40082.1359356822,gdp_per_capita,World Bank
+United Kingdom,2000,39297.1366317267,gdp_per_capita,World Bank
+India,2025,2523.43601851376,gdp_per_capita,World Bank
+India,2024,2366.8328910323,gdp_per_capita,World Bank
+India,2023,2229.71491223037,gdp_per_capita,World Bank
+India,2022,2098.21124476122,gdp_per_capita,World Bank
+India,2021,1965.30943437472,gdp_per_capita,World Bank
+India,2020,1806.50110583865,gdp_per_capita,World Bank
+India,2019,1936.03067741063,gdp_per_capita,World Bank
+India,2018,1883.35772705055,gdp_per_capita,World Bank
+India,2017,1788.69770318481,gdp_per_capita,World Bank
+India,2016,1694.46534973787,gdp_per_capita,World Bank
+India,2015,1583.99815907985,gdp_per_capita,World Bank
+India,2014,1484.31640682961,gdp_per_capita,World Bank
+India,2013,1399.4537980281,gdp_per_capita,World Bank
+India,2012,1333.09626557649,gdp_per_capita,World Bank
+India,2011,1281.61054354937,gdp_per_capita,World Bank
+India,2010,1235.15939132939,gdp_per_capita,World Bank
+India,2009,1155.10163273817,gdp_per_capita,World Bank
+India,2008,1086.50605251005,gdp_per_capita,World Bank
+India,2007,1069.24696812234,gdp_per_capita,World Bank
+India,2006,1008.23275344818,gdp_per_capita,World Bank
+India,2005,947.732565644272,gdp_per_capita,World Bank
+India,2004,892.596614580718,gdp_per_capita,World Bank
+India,2003,841.278894562408,gdp_per_capita,World Bank
+India,2002,793.615912901002,gdp_per_capita,World Bank
+India,2001,778.507377522499,gdp_per_capita,World Bank
+India,2000,756.704109533187,gdp_per_capita,World Bank
+United States,2025,67945.6146497427,gdp_per_capita,World Bank
+United States,2024,66856.5131698371,gdp_per_capita,World Bank
+United States,2023,65667.281580468,gdp_per_capita,World Bank
+United States,2022,64322.2332819139,gdp_per_capita,World Bank
+United States,2021,63096.7856149746,gdp_per_capita,World Bank
+United States,2020,59533.609024416,gdp_per_capita,World Bank
+United States,2019,61047.9648238812,gdp_per_capita,World Bank
+United States,2018,59817.6556798612,gdp_per_capita,World Bank
+United States,2017,58435.9707535619,gdp_per_capita,World Bank
+United States,2016,57430.8499298804,gdp_per_capita,World Bank
+United States,2015,56849.4697923159,gdp_per_capita,World Bank
+United States,2014,55665.2411187802,gdp_per_capita,World Bank
+United States,2013,54728.860179812,gdp_per_capita,World Bank
+United States,2012,54000.8410778217,gdp_per_capita,World Bank
+United States,2011,53215.5362314388,gdp_per_capita,World Bank
+United States,2010,52812.6829869279,gdp_per_capita,World Bank
+United States,2009,51863.6183416558,gdp_per_capita,World Bank
+United States,2008,53703.962897927,gdp_per_capita,World Bank
+United States,2007,54152.8292673551,gdp_per_capita,World Bank
+United States,2006,53596.315236412,gdp_per_capita,World Bank
+United States,2005,52649.5713060461,gdp_per_capita,World Bank
+United States,2004,51348.3473386025,gdp_per_capita,World Bank
+United States,2003,49905.5233080788,gdp_per_capita,World Bank
+United States,2002,48967.3661217576,gdp_per_capita,World Bank
+United States,2001,48597.4246124122,gdp_per_capita,World Bank
+United States,2000,48616.2546282435,gdp_per_capita,World Bank
+Brazil,2025,5.01675279604836,inflation_pct,World Bank
+Brazil,2024,4.36746407652337,inflation_pct,World Bank
+Brazil,2023,4.59356282283204,inflation_pct,World Bank
+Brazil,2022,9.28010608956873,inflation_pct,World Bank
+Brazil,2021,8.30165975585673,inflation_pct,World Bank
+Brazil,2020,3.21176803803376,inflation_pct,World Bank
+Brazil,2019,3.73297621216894,inflation_pct,World Bank
+Brazil,2018,3.66485028376729,inflation_pct,World Bank
+Brazil,2017,3.44637335032669,inflation_pct,World Bank
+Brazil,2016,8.73914352329393,inflation_pct,World Bank
+Brazil,2015,9.02990102416136,inflation_pct,World Bank
+Brazil,2014,6.32904015516139,inflation_pct,World Bank
+Brazil,2013,6.20431066640101,inflation_pct,World Bank
+Brazil,2012,5.40349914036997,inflation_pct,World Bank
+Brazil,2011,6.6364496221309,inflation_pct,World Bank
+Brazil,2010,5.03872690108075,inflation_pct,World Bank
+Brazil,2009,4.88803479876799,inflation_pct,World Bank
+Brazil,2008,5.67859390284168,inflation_pct,World Bank
+Brazil,2007,3.64127299102652,inflation_pct,World Bank
+Brazil,2006,4.18356812896909,inflation_pct,World Bank
+Brazil,2005,6.86953720898964,inflation_pct,World Bank
+Brazil,2004,6.59718509985963,inflation_pct,World Bank
+Brazil,2003,14.7149197228147,inflation_pct,World Bank
+Brazil,2002,8.45016437708331,inflation_pct,World Bank
+Brazil,2001,6.84035902487523,inflation_pct,World Bank
+Brazil,2000,7.04414105947266,inflation_pct,World Bank
+China,2025,0.0595646916565403,inflation_pct,World Bank
+China,2024,0.218128938439177,inflation_pct,World Bank
+China,2023,0.234836828893051,inflation_pct,World Bank
+China,2022,1.97357555739051,inflation_pct,World Bank
+China,2021,0.981015135544882,inflation_pct,World Bank
+China,2020,2.41942189457782,inflation_pct,World Bank
+China,2019,2.89923416358227,inflation_pct,World Bank
+China,2018,2.07479039965576,inflation_pct,World Bank
+China,2017,1.59313600071436,inflation_pct,World Bank
+China,2016,2.00000182191943,inflation_pct,World Bank
+China,2015,1.43702380935655,inflation_pct,World Bank
+China,2014,1.92164162788521,inflation_pct,World Bank
+China,2013,2.62105001748115,inflation_pct,World Bank
+China,2012,2.61952432645541,inflation_pct,World Bank
+China,2011,5.55389892257493,inflation_pct,World Bank
+China,2010,3.17532475269199,inflation_pct,World Bank
+China,2009,-0.728165250932898,inflation_pct,World Bank
+China,2008,5.92525137041092,inflation_pct,World Bank
+China,2007,4.81676767378834,inflation_pct,World Bank
+China,2006,1.6494309945586,inflation_pct,World Bank
+China,2005,1.77641407667571,inflation_pct,World Bank
+China,2004,3.82463743108159,inflation_pct,World Bank
+China,2003,1.12760348729637,inflation_pct,World Bank
+China,2002,-0.731970902350244,inflation_pct,World Bank
+China,2001,0.719125609120114,inflation_pct,World Bank
+China,2000,0.347811226864587,inflation_pct,World Bank
+Germany,2025,2.17178770949721,inflation_pct,World Bank
+Germany,2024,2.2564981433876,inflation_pct,World Bank
+Germany,2023,5.94643667725823,inflation_pct,World Bank
+Germany,2022,6.87257438551097,inflation_pct,World Bank
+Germany,2021,3.06666666666673,inflation_pct,World Bank
+Germany,2020,0.144877925813982,inflation_pct,World Bank
+Germany,2019,1.44565976888253,inflation_pct,World Bank
+Germany,2018,1.73216879766942,inflation_pct,World Bank
+Germany,2017,1.50949485109628,inflation_pct,World Bank
+Germany,2016,0.491747008445174,inflation_pct,World Bank
+Germany,2015,0.514426137125456,inflation_pct,World Bank
+Germany,2014,0.906794000434246,inflation_pct,World Bank
+Germany,2013,1.50472330251876,inflation_pct,World Bank
+Germany,2012,2.00848884782956,inflation_pct,World Bank
+Germany,2011,2.07517283735874,inflation_pct,World Bank
+Germany,2010,1.1038103778926,inflation_pct,World Bank
+Germany,2009,0.312739007368447,inflation_pct,World Bank
+Germany,2008,2.62837981637219,inflation_pct,World Bank
+Germany,2007,2.29834400700951,inflation_pct,World Bank
+Germany,2006,1.57742642840563,inflation_pct,World Bank
+Germany,2005,1.54691114751328,inflation_pct,World Bank
+Germany,2004,1.66573696655992,inflation_pct,World Bank
+Germany,2003,1.03422218628562,inflation_pct,World Bank
+Germany,2002,1.42080615551526,inflation_pct,World Bank
+Germany,2001,1.98385731334471,inflation_pct,World Bank
+Germany,2000,1.44026838719741,inflation_pct,World Bank
+United Kingdom,2025,3.88306881626,inflation_pct,World Bank
+United Kingdom,2024,3.2715729463592,inflation_pct,World Bank
+United Kingdom,2023,6.79396706793963,inflation_pct,World Bank
+United Kingdom,2022,7.92204883147902,inflation_pct,World Bank
+United Kingdom,2021,2.51837109614213,inflation_pct,World Bank
+United Kingdom,2020,0.989486703772491,inflation_pct,World Bank
+United Kingdom,2019,1.73810460086513,inflation_pct,World Bank
+United Kingdom,2018,2.29283990345938,inflation_pct,World Bank
+United Kingdom,2017,2.55775577557747,inflation_pct,World Bank
+United Kingdom,2016,1.0084173681141,inflation_pct,World Bank
+United Kingdom,2015,0.36804684232536,inflation_pct,World Bank
+United Kingdom,2014,1.45112016293279,inflation_pct,World Bank
+United Kingdom,2013,2.29166666666659,inflation_pct,World Bank
+United Kingdom,2012,2.5732347965453,inflation_pct,World Bank
+United Kingdom,2011,3.8561124468282,inflation_pct,World Bank
+United Kingdom,2010,2.49265472467065,inflation_pct,World Bank
+United Kingdom,2009,1.96173173560109,inflation_pct,World Bank
+United Kingdom,2008,3.52140856342539,inflation_pct,World Bank
+United Kingdom,2007,2.38656150773327,inflation_pct,World Bank
+United Kingdom,2006,2.4556616643929,inflation_pct,World Bank
+United Kingdom,2005,2.0891364902507,inflation_pct,World Bank
+United Kingdom,2004,1.39039756680422,inflation_pct,World Bank
+United Kingdom,2003,1.37650038542013,inflation_pct,World Bank
+United Kingdom,2002,1.52040245947455,inflation_pct,World Bank
+United Kingdom,2001,1.53234960272418,inflation_pct,World Bank
+United Kingdom,2000,1.18295624210408,inflation_pct,World Bank
+India,2025,2.39884954182294,inflation_pct,World Bank
+India,2024,4.95303550973661,inflation_pct,World Bank
+India,2023,5.64914318907925,inflation_pct,World Bank
+India,2022,6.69903414079858,inflation_pct,World Bank
+India,2021,5.13140747176364,inflation_pct,World Bank
+India,2020,6.6234367762853,inflation_pct,World Bank
+India,2019,3.72950573539123,inflation_pct,World Bank
+India,2018,3.93882646691643,inflation_pct,World Bank
+India,2017,3.32817337461305,inflation_pct,World Bank
+India,2016,4.94821634062134,inflation_pct,World Bank
+India,2015,4.90697344127249,inflation_pct,World Bank
+India,2014,6.66565671867899,inflation_pct,World Bank
+India,2013,10.0178784746104,inflation_pct,World Bank
+India,2012,9.47899691419793,inflation_pct,World Bank
+India,2011,8.9117933648336,inflation_pct,World Bank
+India,2010,11.9893899204245,inflation_pct,World Bank
+India,2009,10.8823529411764,inflation_pct,World Bank
+India,2008,8.34926704907575,inflation_pct,World Bank
+India,2007,6.37288135593231,inflation_pct,World Bank
+India,2006,5.79652337561634,inflation_pct,World Bank
+India,2005,4.24634362031924,inflation_pct,World Bank
+India,2004,3.76725173477517,inflation_pct,World Bank
+India,2003,3.80585899528853,inflation_pct,World Bank
+India,2002,4.29715203929562,inflation_pct,World Bank
+India,2001,3.77929312235637,inflation_pct,World Bank
+India,2000,4.0094359104519,inflation_pct,World Bank
+United States,2024,2.94952520485207,inflation_pct,World Bank
+United States,2023,4.11633838374488,inflation_pct,World Bank
+United States,2022,8.00279982052121,inflation_pct,World Bank
+United States,2021,4.69785886363742,inflation_pct,World Bank
+United States,2020,1.23358439630629,inflation_pct,World Bank
+United States,2019,1.81221007526021,inflation_pct,World Bank
+United States,2018,2.44258329692817,inflation_pct,World Bank
+United States,2017,2.13011000365961,inflation_pct,World Bank
+United States,2016,1.26158320570536,inflation_pct,World Bank
+United States,2015,0.118627135552451,inflation_pct,World Bank
+United States,2014,1.62222297740817,inflation_pct,World Bank
+United States,2013,1.46483265562717,inflation_pct,World Bank
+United States,2012,2.06933726526067,inflation_pct,World Bank
+United States,2011,3.156841568622,inflation_pct,World Bank
+United States,2010,1.6400434423899,inflation_pct,World Bank
+United States,2009,-0.355546266299747,inflation_pct,World Bank
+United States,2008,3.839100296651,inflation_pct,World Bank
+United States,2007,2.85267248150138,inflation_pct,World Bank
+United States,2006,3.22594410070404,inflation_pct,World Bank
+United States,2005,3.3927468454955,inflation_pct,World Bank
+United States,2004,2.67723669309172,inflation_pct,World Bank
+United States,2003,2.27009497336115,inflation_pct,World Bank
+United States,2002,1.58603162650601,inflation_pct,World Bank
+United States,2001,2.82617111885407,inflation_pct,World Bank
+United States,2000,3.37685727149929,inflation_pct,World Bank
+Brazil,2025,5.97,unemployment_pct,World Bank
+Brazil,2024,6.801,unemployment_pct,World Bank
+Brazil,2023,7.947,unemployment_pct,World Bank
+Brazil,2022,9.231,unemployment_pct,World Bank
+Brazil,2021,13.158,unemployment_pct,World Bank
+Brazil,2020,13.697,unemployment_pct,World Bank
+Brazil,2019,11.936,unemployment_pct,World Bank
+Brazil,2018,12.329,unemployment_pct,World Bank
+Brazil,2017,12.792,unemployment_pct,World Bank
+Brazil,2016,11.58,unemployment_pct,World Bank
+Brazil,2015,8.538,unemployment_pct,World Bank
+Brazil,2014,6.755,unemployment_pct,World Bank
+Brazil,2013,7.071,unemployment_pct,World Bank
+Brazil,2012,7.251,unemployment_pct,World Bank
+Brazil,2011,7.578,unemployment_pct,World Bank
+Brazil,2010,8.42,unemployment_pct,World Bank
+Brazil,2009,9.419,unemployment_pct,World Bank
+Brazil,2008,8.268,unemployment_pct,World Bank
+Brazil,2007,9.28,unemployment_pct,World Bank
+Brazil,2006,9.692,unemployment_pct,World Bank
+Brazil,2005,10.551,unemployment_pct,World Bank
+Brazil,2004,10.072,unemployment_pct,World Bank
+Brazil,2003,11.168,unemployment_pct,World Bank
+Brazil,2002,10.641,unemployment_pct,World Bank
+Brazil,2001,10.649,unemployment_pct,World Bank
+Brazil,2000,10.889,unemployment_pct,World Bank
+China,2025,4.615,unemployment_pct,World Bank
+China,2024,4.59,unemployment_pct,World Bank
+China,2023,4.67,unemployment_pct,World Bank
+China,2022,4.98,unemployment_pct,World Bank
+China,2021,4.55,unemployment_pct,World Bank
+China,2020,5.0,unemployment_pct,World Bank
+China,2019,4.56,unemployment_pct,World Bank
+China,2018,4.31,unemployment_pct,World Bank
+China,2017,4.47,unemployment_pct,World Bank
+China,2016,4.56,unemployment_pct,World Bank
+China,2015,4.65,unemployment_pct,World Bank
+China,2014,4.63,unemployment_pct,World Bank
+China,2013,4.6,unemployment_pct,World Bank
+China,2012,4.58,unemployment_pct,World Bank
+China,2011,4.55,unemployment_pct,World Bank
+China,2010,4.53,unemployment_pct,World Bank
+China,2009,4.72,unemployment_pct,World Bank
+China,2008,4.59,unemployment_pct,World Bank
+China,2007,4.35,unemployment_pct,World Bank
+China,2006,4.43,unemployment_pct,World Bank
+China,2005,4.52,unemployment_pct,World Bank
+China,2004,4.49,unemployment_pct,World Bank
+China,2003,4.58,unemployment_pct,World Bank
+China,2002,4.24,unemployment_pct,World Bank
+China,2001,3.8,unemployment_pct,World Bank
+China,2000,3.26,unemployment_pct,World Bank
+Germany,2025,3.711,unemployment_pct,World Bank
+Germany,2024,3.4,unemployment_pct,World Bank
+Germany,2023,3.071,unemployment_pct,World Bank
+Germany,2022,3.137,unemployment_pct,World Bank
+Germany,2021,3.594,unemployment_pct,World Bank
+Germany,2020,3.881,unemployment_pct,World Bank
+Germany,2019,3.163,unemployment_pct,World Bank
+Germany,2018,3.384,unemployment_pct,World Bank
+Germany,2017,3.781,unemployment_pct,World Bank
+Germany,2016,4.104,unemployment_pct,World Bank
+Germany,2015,4.612,unemployment_pct,World Bank
+Germany,2014,4.979,unemployment_pct,World Bank
+Germany,2013,5.316,unemployment_pct,World Bank
+Germany,2012,5.372,unemployment_pct,World Bank
+Germany,2011,5.967,unemployment_pct,World Bank
+Germany,2010,7.043,unemployment_pct,World Bank
+Germany,2009,7.88,unemployment_pct,World Bank
+Germany,2008,7.508,unemployment_pct,World Bank
+Germany,2007,8.732,unemployment_pct,World Bank
+Germany,2006,10.277,unemployment_pct,World Bank
+Germany,2005,11.193,unemployment_pct,World Bank
+Germany,2004,10.727,unemployment_pct,World Bank
+Germany,2003,9.779,unemployment_pct,World Bank
+Germany,2002,8.482,unemployment_pct,World Bank
+Germany,2001,7.773,unemployment_pct,World Bank
+Germany,2000,7.917,unemployment_pct,World Bank
+United Kingdom,2025,4.746,unemployment_pct,World Bank
+United Kingdom,2024,4.361,unemployment_pct,World Bank
+United Kingdom,2023,4.025,unemployment_pct,World Bank
+United Kingdom,2022,3.768,unemployment_pct,World Bank
+United Kingdom,2021,4.864,unemployment_pct,World Bank
+United Kingdom,2020,4.472,unemployment_pct,World Bank
+United Kingdom,2019,3.657,unemployment_pct,World Bank
+United Kingdom,2018,4.145,unemployment_pct,World Bank
+United Kingdom,2017,4.501,unemployment_pct,World Bank
+United Kingdom,2016,4.909,unemployment_pct,World Bank
+United Kingdom,2015,5.552,unemployment_pct,World Bank
+United Kingdom,2014,6.398,unemployment_pct,World Bank
+United Kingdom,2013,7.752,unemployment_pct,World Bank
+United Kingdom,2012,8.279,unemployment_pct,World Bank
+United Kingdom,2011,8.195,unemployment_pct,World Bank
+United Kingdom,2010,7.973,unemployment_pct,World Bank
+United Kingdom,2009,7.683,unemployment_pct,World Bank
+United Kingdom,2008,5.748,unemployment_pct,World Bank
+United Kingdom,2007,5.399,unemployment_pct,World Bank
+United Kingdom,2006,5.472,unemployment_pct,World Bank
+United Kingdom,2005,4.884,unemployment_pct,World Bank
+United Kingdom,2004,4.594,unemployment_pct,World Bank
+United Kingdom,2003,4.807,unemployment_pct,World Bank
+United Kingdom,2002,5.037,unemployment_pct,World Bank
+United Kingdom,2001,4.696,unemployment_pct,World Bank
+United Kingdom,2000,5.558,unemployment_pct,World Bank
+India,2025,4.219,unemployment_pct,World Bank
+India,2024,4.173,unemployment_pct,World Bank
+India,2023,4.172,unemployment_pct,World Bank
+India,2022,4.822,unemployment_pct,World Bank
+India,2021,6.38,unemployment_pct,World Bank
+India,2020,7.859,unemployment_pct,World Bank
+India,2019,6.51,unemployment_pct,World Bank
+India,2018,7.652,unemployment_pct,World Bank
+India,2017,7.626,unemployment_pct,World Bank
+India,2016,7.611,unemployment_pct,World Bank
+India,2015,7.629,unemployment_pct,World Bank
+India,2014,7.656,unemployment_pct,World Bank
+India,2013,7.678,unemployment_pct,World Bank
+India,2012,7.645,unemployment_pct,World Bank
+India,2011,7.609,unemployment_pct,World Bank
+India,2010,7.631,unemployment_pct,World Bank
+India,2009,7.636,unemployment_pct,World Bank
+India,2008,7.629,unemployment_pct,World Bank
+India,2007,7.562,unemployment_pct,World Bank
+India,2006,7.553,unemployment_pct,World Bank
+India,2005,7.551,unemployment_pct,World Bank
+India,2004,7.598,unemployment_pct,World Bank
+India,2003,7.633,unemployment_pct,World Bank
+India,2002,7.681,unemployment_pct,World Bank
+India,2001,7.611,unemployment_pct,World Bank
+India,2000,7.589,unemployment_pct,World Bank
+United States,2025,4.198,unemployment_pct,World Bank
+United States,2024,4.022,unemployment_pct,World Bank
+United States,2023,3.638,unemployment_pct,World Bank
+United States,2022,3.65,unemployment_pct,World Bank
+United States,2021,5.349,unemployment_pct,World Bank
+United States,2020,8.055,unemployment_pct,World Bank
+United States,2019,3.669,unemployment_pct,World Bank
+United States,2018,3.896,unemployment_pct,World Bank
+United States,2017,4.355,unemployment_pct,World Bank
+United States,2016,4.869,unemployment_pct,World Bank
+United States,2015,5.28,unemployment_pct,World Bank
+United States,2014,6.168,unemployment_pct,World Bank
+United States,2013,7.375,unemployment_pct,World Bank
+United States,2012,8.069,unemployment_pct,World Bank
+United States,2011,8.949,unemployment_pct,World Bank
+United States,2010,9.633,unemployment_pct,World Bank
+United States,2009,9.254,unemployment_pct,World Bank
+United States,2008,5.784,unemployment_pct,World Bank
+United States,2007,4.622,unemployment_pct,World Bank
+United States,2006,4.623,unemployment_pct,World Bank
+United States,2005,5.084,unemployment_pct,World Bank
+United States,2004,5.529,unemployment_pct,World Bank
+United States,2003,5.989,unemployment_pct,World Bank
+United States,2002,5.783,unemployment_pct,World Bank
+United States,2001,4.731,unemployment_pct,World Bank
+United States,2000,3.992,unemployment_pct,World Bank
+Brazil,2025,-2.92630139201733,current_account_gdp,World Bank
+Brazil,2024,-2.9880142706208,current_account_gdp,World Bank
+Brazil,2023,-1.23139445763703,current_account_gdp,World Bank
+Brazil,2022,-2.14967698505073,current_account_gdp,World Bank
+Brazil,2021,-2.35822097223117,current_account_gdp,World Bank
+Brazil,2020,-1.64103541830151,current_account_gdp,World Bank
+Brazil,2019,-3.41429103072781,current_account_gdp,World Bank
+Brazil,2018,-2.80752008594698,current_account_gdp,World Bank
+Brazil,2017,-1.22429925769002,current_account_gdp,World Bank
+Brazil,2016,-1.700113396765,current_account_gdp,World Bank
+Brazil,2015,-3.51839166799859,current_account_gdp,World Bank
+Brazil,2014,-4.4988303801852,current_account_gdp,World Bank
+Brazil,2013,-3.57422079622864,current_account_gdp,World Bank
+Brazil,2012,-3.75941611687375,current_account_gdp,World Bank
+Brazil,2011,-3.19461831905473,current_account_gdp,World Bank
+Brazil,2010,-3.92594604454763,current_account_gdp,World Bank
+Brazil,2009,-1.7593578735281,current_account_gdp,World Bank
+Brazil,2008,-2.09933784786717,current_account_gdp,World Bank
+Brazil,2007,-0.19709696108555,current_account_gdp,World Bank
+Brazil,2006,0.9727105230346,current_account_gdp,World Bank
+Brazil,2005,1.30988466560485,current_account_gdp,World Bank
+Brazil,2004,1.33863064799445,current_account_gdp,World Bank
+Brazil,2003,0.392877183707379,current_account_gdp,World Bank
+Brazil,2002,-1.84525901678299,current_account_gdp,World Bank
+Brazil,2001,-4.44478653179819,current_account_gdp,World Bank
+Brazil,2000,-4.0477413019387,current_account_gdp,World Bank
+China,2025,3.76972243689338,current_account_gdp,World Bank
+China,2024,2.46818591485776,current_account_gdp,World Bank
+China,2023,1.40681103517507,current_account_gdp,World Bank
+China,2022,2.20640460953834,current_account_gdp,World Bank
+China,2021,1.6339546037037,current_account_gdp,World Bank
+China,2020,1.49179592498582,current_account_gdp,World Bank
+China,2019,0.619961080716059,current_account_gdp,World Bank
+China,2018,0.170563391928727,current_account_gdp,World Bank
+China,2017,1.50488723669316,current_account_gdp,World Bank
+China,2016,1.67018709565352,current_account_gdp,World Bank
+China,2015,2.59752794949746,current_account_gdp,World Bank
+China,2014,2.21130586371267,current_account_gdp,World Bank
+China,2013,1.52111320885029,current_account_gdp,World Bank
+China,2012,2.48328422404794,current_account_gdp,World Bank
+China,2011,1.77399724587567,current_account_gdp,World Bank
+China,2010,3.8402567341525,current_account_gdp,World Bank
+China,2009,4.68740638141982,current_account_gdp,World Bank
+China,2008,9.01086996317632,current_account_gdp,World Bank
+China,2007,9.79958953536148,current_account_gdp,World Bank
+China,2006,8.30532573537484,current_account_gdp,World Bank
+China,2005,5.71199843031159,current_account_gdp,World Bank
+China,2004,3.47450259619584,current_account_gdp,World Bank
+China,2003,2.55665409110255,current_account_gdp,World Bank
+China,2002,2.37759984341841,current_account_gdp,World Bank
+China,2001,1.28417196444636,current_account_gdp,World Bank
+China,2000,1.67667411710879,current_account_gdp,World Bank
+Germany,2025,4.50585617378113,current_account_gdp,World Bank
+Germany,2024,5.89380863529108,current_account_gdp,World Bank
+Germany,2023,5.50327392607703,current_account_gdp,World Bank
+Germany,2022,4.11376375249819,current_account_gdp,World Bank
+Germany,2021,6.92006966375342,current_account_gdp,World Bank
+Germany,2020,6.34782686016016,current_account_gdp,World Bank
+Germany,2019,7.87471222403173,current_account_gdp,World Bank
+Germany,2018,8.43761219902204,current_account_gdp,World Bank
+Germany,2017,8.07873526112888,current_account_gdp,World Bank
+Germany,2016,8.90236036837271,current_account_gdp,World Bank
+Germany,2015,8.09671429040112,current_account_gdp,World Bank
+Germany,2014,7.19411093057004,current_account_gdp,World Bank
+Germany,2013,6.55719316810853,current_account_gdp,World Bank
+Germany,2012,7.01984446991475,current_account_gdp,World Bank
+Germany,2011,6.09171549435117,current_account_gdp,World Bank
+Germany,2010,5.58814592773644,current_account_gdp,World Bank
+Germany,2009,5.66039528537592,current_account_gdp,World Bank
+Germany,2008,5.40768664904885,current_account_gdp,World Bank
+Germany,2007,6.5154572948782,current_account_gdp,World Bank
+Germany,2006,5.52590473247801,current_account_gdp,World Bank
+Germany,2005,4.39898942956011,current_account_gdp,World Bank
+Germany,2004,4.26675296375958,current_account_gdp,World Bank
+Germany,2003,1.25843057921389,current_account_gdp,World Bank
+Germany,2002,1.71466761160357,current_account_gdp,World Bank
+Germany,2001,-0.447670510485843,current_account_gdp,World Bank
+Germany,2000,-1.76650413580914,current_account_gdp,World Bank
+United Kingdom,2025,-2.42693271936225,current_account_gdp,World Bank
+United Kingdom,2024,-2.95960422411904,current_account_gdp,World Bank
+United Kingdom,2023,-3.57676183842871,current_account_gdp,World Bank
+United Kingdom,2022,-2.06737101121871,current_account_gdp,World Bank
+United Kingdom,2021,-0.752836357784013,current_account_gdp,World Bank
+United Kingdom,2020,-2.92883387550299,current_account_gdp,World Bank
+United Kingdom,2019,-2.66245642145608,current_account_gdp,World Bank
+United Kingdom,2018,-3.88728858372976,current_account_gdp,World Bank
+United Kingdom,2017,-3.47326460218152,current_account_gdp,World Bank
+United Kingdom,2016,-5.46283821927875,current_account_gdp,World Bank
+United Kingdom,2015,-4.91700489264857,current_account_gdp,World Bank
+United Kingdom,2014,-4.97786981840052,current_account_gdp,World Bank
+United Kingdom,2013,-4.63114682704939,current_account_gdp,World Bank
+United Kingdom,2012,-3.13257837481106,current_account_gdp,World Bank
+United Kingdom,2011,-1.6237867474026,current_account_gdp,World Bank
+United Kingdom,2010,-2.75934253189814,current_account_gdp,World Bank
+United Kingdom,2009,-3.01852853421921,current_account_gdp,World Bank
+United Kingdom,2008,-3.86567706212856,current_account_gdp,World Bank
+United Kingdom,2007,-3.71636602944723,current_account_gdp,World Bank
+United Kingdom,2006,-3.10941980167091,current_account_gdp,World Bank
+United Kingdom,2005,-1.97517731781616,current_account_gdp,World Bank
+United Kingdom,2004,-2.28435751976608,current_account_gdp,World Bank
+United Kingdom,2003,-1.82204886055783,current_account_gdp,World Bank
+United Kingdom,2002,-1.96774674220137,current_account_gdp,World Bank
+United Kingdom,2001,-1.75946787442188,current_account_gdp,World Bank
+United Kingdom,2000,-1.80322397590519,current_account_gdp,World Bank
+India,2025,-0.416854153498652,current_account_gdp,World Bank
+India,2024,-0.851289719084462,current_account_gdp,World Bank
+India,2023,-0.912777939495827,current_account_gdp,World Bank
+India,2022,-2.43238270956779,current_account_gdp,World Bank
+India,2021,-1.05524166809383,current_account_gdp,World Bank
+India,2020,1.22362111042791,current_account_gdp,World Bank
+India,2019,-1.04961203910072,current_account_gdp,World Bank
+India,2018,-2.42697545810527,current_account_gdp,World Bank
+India,2017,-1.43948820320989,current_account_gdp,World Bank
+India,2016,-0.52788060603752,current_account_gdp,World Bank
+India,2015,-1.06754907167965,current_account_gdp,World Bank
+India,2014,-1.33950896483453,current_account_gdp,World Bank
+India,2013,-2.64566711733892,current_account_gdp,World Bank
+India,2012,-5.00488971805303,current_account_gdp,World Bank
+India,2011,-3.42928468606061,current_account_gdp,World Bank
+India,2010,-3.25348368945179,current_account_gdp,World Bank
+India,2009,-1.95146209111802,current_account_gdp,World Bank
+India,2008,-2.58337749259838,current_account_gdp,World Bank
+India,2007,-0.663717648772609,current_account_gdp,World Bank
+India,2006,-0.988988302952292,current_account_gdp,World Bank
+India,2005,-1.25350400207393,current_account_gdp,World Bank
+India,2004,0.110018010197154,current_account_gdp,World Bank
+India,2003,1.44355773291234,current_account_gdp,World Bank
+India,2002,1.37093793900847,current_account_gdp,World Bank
+India,2001,0.290495460210208,current_account_gdp,World Bank
+India,2000,-0.982342580017138,current_account_gdp,World Bank
+United States,2025,-3.62698693844919,current_account_gdp,World Bank
+United States,2024,-4.04564637199117,current_account_gdp,World Bank
+United States,2023,-3.33680827263036,current_account_gdp,World Bank
+United States,2022,-3.81177015326345,current_account_gdp,World Bank
+United States,2021,-3.61901225446136,current_account_gdp,World Bank
+United States,2020,-2.77659039897534,current_account_gdp,World Bank
+United States,2019,-2.05182158462342,current_account_gdp,World Bank
+United States,2018,-2.12518413076048,current_account_gdp,World Bank
+United States,2017,-1.87442427129943,current_account_gdp,World Bank
+United States,2016,-2.10699725119707,current_account_gdp,World Bank
+United States,2015,-2.2325584903738,current_account_gdp,World Bank
+United States,2014,-2.10117617206317,current_account_gdp,World Bank
+United States,2013,-2.01090797096302,current_account_gdp,World Bank
+United States,2012,-2.57236847367136,current_account_gdp,World Bank
+United States,2011,-2.91862065322661,current_account_gdp,World Bank
+United States,2010,-2.87064145448882,current_account_gdp,World Bank
+United States,2009,-2.62283632200348,current_account_gdp,World Bank
+United States,2008,-4.71585990444596,current_account_gdp,World Bank
+United States,2007,-5.08872735734161,current_account_gdp,World Bank
+United States,2006,-5.91102091022869,current_account_gdp,World Bank
+United States,2005,-5.74598267055862,current_account_gdp,World Bank
+United States,2004,-5.20485224269137,current_account_gdp,World Bank
+United States,2003,-4.55897769378821,current_account_gdp,World Bank
+United States,2002,-4.17334150234402,current_account_gdp,World Bank
+United States,2001,-3.72407526075822,current_account_gdp,World Bank
+United States,2000,-3.92088461637514,current_account_gdp,World Bank
+Brazil,2025,17.0759965150742,investment_gdp,World Bank
+Brazil,2024,16.9814356044398,investment_gdp,World Bank
+Brazil,2023,15.7606472065087,investment_gdp,World Bank
+Brazil,2022,18.0882204442366,investment_gdp,World Bank
+Brazil,2021,19.5218850206383,investment_gdp,World Bank
+Brazil,2020,16.1158206039466,investment_gdp,World Bank
+Brazil,2019,15.5167908009424,investment_gdp,World Bank
+Brazil,2018,15.0950416291605,investment_gdp,World Bank
+Brazil,2017,14.6255875978858,investment_gdp,World Bank
+Brazil,2016,14.9695469721031,investment_gdp,World Bank
+Brazil,2015,17.4116258675005,investment_gdp,World Bank
+Brazil,2014,20.5484107553739,investment_gdp,World Bank
+Brazil,2013,21.6937669568432,investment_gdp,World Bank
+Brazil,2012,21.4172253691912,investment_gdp,World Bank
+Brazil,2011,21.8262711166856,investment_gdp,World Bank
+Brazil,2010,21.8013215585586,investment_gdp,World Bank
+Brazil,2009,18.796135029807,investment_gdp,World Bank
+Brazil,2008,21.6193828541669,investment_gdp,World Bank
+Brazil,2007,19.8193259830854,investment_gdp,World Bank
+Brazil,2006,17.8164738793472,investment_gdp,World Bank
+Brazil,2005,17.2048834494962,investment_gdp,World Bank
+Brazil,2004,17.9125683422575,investment_gdp,World Bank
+Brazil,2003,16.8566884007152,investment_gdp,World Bank
+Brazil,2002,17.4490794834956,investment_gdp,World Bank
+Brazil,2001,18.7418602950836,investment_gdp,World Bank
+Brazil,2000,18.9031192683871,investment_gdp,World Bank
+China,2024,40.4815134449629,investment_gdp,World Bank
+China,2023,41.1297102455381,investment_gdp,World Bank
+China,2022,42.3554333470499,investment_gdp,World Bank
+China,2021,42.6822612949312,investment_gdp,World Bank
+China,2020,42.5723735094229,investment_gdp,World Bank
+China,2019,42.6695374085222,investment_gdp,World Bank
+China,2018,43.313827489682,investment_gdp,World Bank
+China,2017,42.5497375507577,investment_gdp,World Bank
+China,2016,42.1386166189127,investment_gdp,World Bank
+China,2015,42.7349872564364,investment_gdp,World Bank
+China,2014,45.3115352657107,investment_gdp,World Bank
+China,2013,45.9224093546636,investment_gdp,World Bank
+China,2012,45.8169211701107,investment_gdp,World Bank
+China,2011,46.2703012824496,investment_gdp,World Bank
+China,2010,46.1023443345586,investment_gdp,World Bank
+China,2009,44.9282638913962,investment_gdp,World Bank
+China,2008,41.9607249432501,investment_gdp,World Bank
+China,2007,40.2220879226288,investment_gdp,World Bank
+China,2006,39.6897003482818,investment_gdp,World Bank
+China,2005,40.178086700104,investment_gdp,World Bank
+China,2004,41.6343741627493,investment_gdp,World Bank
+China,2003,39.4280130265115,investment_gdp,World Bank
+China,2002,36.0687816828708,investment_gdp,World Bank
+China,2001,35.523858010134,investment_gdp,World Bank
+China,2000,33.6326827140045,investment_gdp,World Bank
+Germany,2025,21.9314930278238,investment_gdp,World Bank
+Germany,2024,21.4994328905028,investment_gdp,World Bank
+Germany,2023,21.994283425489,investment_gdp,World Bank
+Germany,2022,23.2760146288029,investment_gdp,World Bank
+Germany,2021,22.6730557200041,investment_gdp,World Bank
+Germany,2020,21.7290304632077,investment_gdp,World Bank
+Germany,2019,21.381259046499,investment_gdp,World Bank
+Germany,2018,21.6503641494105,investment_gdp,World Bank
+Germany,2017,20.6909762954118,investment_gdp,World Bank
+Germany,2016,19.7122567843741,investment_gdp,World Bank
+Germany,2015,19.4978020945699,investment_gdp,World Bank
+Germany,2014,20.139488753447,investment_gdp,World Bank
+Germany,2013,19.7883815690324,investment_gdp,World Bank
+Germany,2012,19.4724714926695,investment_gdp,World Bank
+Germany,2011,21.2669872693317,investment_gdp,World Bank
+Germany,2010,19.5310600093299,investment_gdp,World Bank
+Germany,2009,18.0064315128089,investment_gdp,World Bank
+Germany,2008,20.8867329914107,investment_gdp,World Bank
+Germany,2007,20.7873433455798,investment_gdp,World Bank
+Germany,2006,19.897946566207,investment_gdp,World Bank
+Germany,2005,18.7355259254163,investment_gdp,World Bank
+Germany,2004,19.0213864564072,investment_gdp,World Bank
+Germany,2003,19.5766263092364,investment_gdp,World Bank
+Germany,2002,20.151752302821,investment_gdp,World Bank
+Germany,2001,22.7645716524028,investment_gdp,World Bank
+Germany,2000,23.9639660790924,investment_gdp,World Bank
+United Kingdom,2025,19.6884002261946,investment_gdp,World Bank
+United Kingdom,2024,19.1682079957281,investment_gdp,World Bank
+United Kingdom,2023,18.4594014019513,investment_gdp,World Bank
+United Kingdom,2022,18.3468561370256,investment_gdp,World Bank
+United Kingdom,2021,18.8987416108827,investment_gdp,World Bank
+United Kingdom,2020,18.2807146353402,investment_gdp,World Bank
+United Kingdom,2019,19.0285140310906,investment_gdp,World Bank
+United Kingdom,2018,18.8761161911788,investment_gdp,World Bank
+United Kingdom,2017,19.1317371265417,investment_gdp,World Bank
+United Kingdom,2016,18.5956388685899,investment_gdp,World Bank
+United Kingdom,2015,18.4755209500336,investment_gdp,World Bank
+United Kingdom,2014,18.4324178455585,investment_gdp,World Bank
+United Kingdom,2013,17.1697393956196,investment_gdp,World Bank
+United Kingdom,2012,16.5145890011547,investment_gdp,World Bank
+United Kingdom,2011,16.491680863741,investment_gdp,World Bank
+United Kingdom,2010,16.6181160375508,investment_gdp,World Bank
+United Kingdom,2009,15.9866102776379,investment_gdp,World Bank
+United Kingdom,2008,18.2886587771819,investment_gdp,World Bank
+United Kingdom,2007,19.1749332518758,investment_gdp,World Bank
+United Kingdom,2006,18.909666594501,investment_gdp,World Bank
+United Kingdom,2005,18.4132680657531,investment_gdp,World Bank
+United Kingdom,2004,18.1006116145736,investment_gdp,World Bank
+United Kingdom,2003,18.3223472121232,investment_gdp,World Bank
+United Kingdom,2002,18.6991795058955,investment_gdp,World Bank
+United Kingdom,2001,18.7962716702215,investment_gdp,World Bank
+United Kingdom,2000,18.9469377484139,investment_gdp,World Bank
+India,2025,34.6030048968457,investment_gdp,World Bank
+India,2024,34.3459060404746,investment_gdp,World Bank
+India,2023,34.504684353812,investment_gdp,World Bank
+India,2022,34.4117962357355,investment_gdp,World Bank
+India,2021,32.1158221755014,investment_gdp,World Bank
+India,2020,28.9223840080659,investment_gdp,World Bank
+India,2019,30.0961975685688,investment_gdp,World Bank
+India,2018,32.3432182154485,investment_gdp,World Bank
+India,2017,30.9821728344733,investment_gdp,World Bank
+India,2016,30.172690580036,investment_gdp,World Bank
+India,2015,32.1167301358276,investment_gdp,World Bank
+India,2014,34.2678056268836,investment_gdp,World Bank
+India,2013,34.0231978997548,investment_gdp,World Bank
+India,2012,38.3474156730403,investment_gdp,World Bank
+India,2011,39.590421855219,investment_gdp,World Bank
+India,2010,39.7856241847736,investment_gdp,World Bank
+India,2009,39.2567917551336,investment_gdp,World Bank
+India,2008,38.4224196528192,investment_gdp,World Bank
+India,2007,41.9507982267334,investment_gdp,World Bank
+India,2006,38.9985063717532,investment_gdp,World Bank
+India,2005,37.4282640165983,investment_gdp,World Bank
+India,2004,35.0964917017773,investment_gdp,World Bank
+India,2003,30.8396999424416,investment_gdp,World Bank
+India,2002,30.2513001207186,investment_gdp,World Bank
+India,2001,29.9078889827325,investment_gdp,World Bank
+India,2000,25.677316683955,investment_gdp,World Bank
+United States,2024,21.5325967668865,investment_gdp,World Bank
+United States,2023,21.5701430454153,investment_gdp,World Bank
+United States,2022,22.0268164402666,investment_gdp,World Bank
+United States,2021,21.4064022284747,investment_gdp,World Bank
+United States,2020,21.4377205146449,investment_gdp,World Bank
+United States,2019,21.6698091948266,investment_gdp,World Bank
+United States,2018,21.5690729259474,investment_gdp,World Bank
+United States,2017,21.1557690246563,investment_gdp,World Bank
+United States,2016,20.8879562484549,investment_gdp,World Bank
+United States,2015,21.4151895660781,investment_gdp,World Bank
+United States,2014,20.9011935276745,investment_gdp,World Bank
+United States,2013,20.3792642750296,investment_gdp,World Bank
+United States,2012,19.9507258841994,investment_gdp,World Bank
+United States,2011,19.0335385248926,investment_gdp,World Bank
+United States,2010,18.6722135353972,investment_gdp,World Bank
+United States,2009,17.768753245858,investment_gdp,World Bank
+United States,2008,21.0374883665128,investment_gdp,World Bank
+United States,2007,22.5575761277216,investment_gdp,World Bank
+United States,2006,23.5375300484967,investment_gdp,World Bank
+United States,2005,23.3757186121201,investment_gdp,World Bank
+United States,2004,22.6521453858971,investment_gdp,World Bank
+United States,2003,21.7456280086763,investment_gdp,World Bank
+United States,2002,21.7226602573604,investment_gdp,World Bank
+United States,2001,22.17672222144,investment_gdp,World Bank
+United States,2000,23.6783666531655,investment_gdp,World Bank
